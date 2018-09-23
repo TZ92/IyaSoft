@@ -1,0 +1,5 @@
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Domain\bin\Debug\IyaSoft.Domain.dll
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Domain\bin\Debug\IyaSoft.Domain.pdb
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Domain\obj\Debug\IyaSoft.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Domain\obj\Debug\IyaSoft.Domain.dll
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Domain\obj\Debug\IyaSoft.Domain.pdb

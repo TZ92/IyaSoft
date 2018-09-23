@@ -1,0 +1,11 @@
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\bin\Debug\IyaSoft.Service.dll
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\bin\Debug\IyaSoft.Service.pdb
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\bin\Debug\IyaSoft.Data.dll
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\bin\Debug\IyaSoft.Domain.dll
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\bin\Debug\EntityFramework.dll
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\bin\Debug\IyaSoft.Data.pdb
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\bin\Debug\IyaSoft.Domain.pdb
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\bin\Debug\EntityFramework.xml
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\obj\Debug\IyaSoft.Service.csprojResolveAssemblyReference.cache
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\obj\Debug\IyaSoft.Service.dll
+C:\Users\Public.iChed-PC\Documents\Visual Studio 2015\Projects\IyaSoft\IyaSoft.Service\obj\Debug\IyaSoft.Service.pdb
