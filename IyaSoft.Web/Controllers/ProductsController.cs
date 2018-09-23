@@ -38,7 +38,7 @@ namespace IyaSoft.Web.Controllers
                                 );
             }
 
-            if (search != null && date != null)
+            else if (search != null && date != null)
             {
                 return View(db.Products.Where(x =>
                                 (x.Name.ToUpper().Contains(search.ToUpper())
@@ -52,7 +52,7 @@ namespace IyaSoft.Web.Controllers
 
                                 );
             }
-            if (search != null && date != null && price !=null)
+            else if (search != null && date != null && price !=null)
             {
                 return View(db.Products.Where(x =>
                                 (x.Name.ToUpper().Contains(search.ToUpper())
@@ -69,7 +69,7 @@ namespace IyaSoft.Web.Controllers
                                 );
             }
 
-            if (search != null )
+            else if (search != null )
             {
                 return View(db.Products.Where(x =>
                                 (x.Name.ToUpper().Contains(search.ToUpper())
@@ -81,7 +81,7 @@ namespace IyaSoft.Web.Controllers
                                 );
             }
 
-            return View(db.Products.ToList());
+            else return View(db.Products.ToList());
         }
 
         // GET: Products/Details/5
